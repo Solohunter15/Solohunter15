@@ -1,19 +1,23 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Jibu Mathew
+<!-- ========================= -->
+
+<!--      JIBU MATHEW README   -->
+
+<!-- ========================= -->
+
+<h1 align="center">Jibu Mathew</h1>
 
 <h3 align="center">
-Project Manager @ AI+Compassion • Chief Marketing Officer @ CurioNative
+Chief Marketing Officer • Project Manager • Vibe Coder
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+the+Future+with+AI.;Ideas+%E2%86%92+Products+%E2%86%92+Impact.;AI+Engineer+%7C+Product+Strategist.;From+Prompt+to+Production.;Less+Talking.+More+Shipping." />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Building+Products+with+AI.;Turning+Ideas+into+Reality.;Chief+Marketing+Officer.;Project+Manager.;Vibe+Coder.;Prompt+%E2%86%92+Prototype+%E2%86%92+Production."/>
 </p>
 
 <p align="center">
 
 <a href="https://my-portfolio-sooty-pi-18.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jibu-mathew-018a8222b">
@@ -30,132 +34,187 @@ Project Manager @ AI+Compassion • Chief Marketing Officer @ CurioNative
 
 # ⚡ SYSTEM PROFILE
 
-```yaml
-Name:               Jibu Mathew
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                    JIBU.MATHEW // PROFILE                    │
+├──────────────────────────────────────────────────────────────┤
 
-Profession:         AI Engineer
-                    Product Strategist
-                    Project Manager
 
-Current Roles:
-    • Project Manager @ AI+Compassion
-    • Chief Marketing Officer @ CurioNative
+CURRENT ROLE      Chief Marketing Officer
+                  CurioNative
 
-Location:           Kerala, India 🇮🇳
+                  Project Manager
+                  AI+Compassion
 
-Education:          B.Tech Data Science
+SPECIALIZATION    Vibe Coding
+                  AI Product Development
+                  Product Strategy
+                  Growth & Marketing
 
-Mission:
-    Build intelligent products that solve
-    real-world problems through AI.
+MISSION           Build intelligent products that solve
+                  real-world problems.
 
-Core Principle:
-    Think Deep.
-    Build Fast.
-    Ship Often.
+WORKFLOW          Think → Design → Build → Ship → Improve
+
+MOTTO             "Execution beats perfection."
+
+SYSTEM            READY
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# 🤖 AI ARSENAL
+# 🧠 AI COMMAND CENTER
 
-> *These aren't just tools I use—they're the ecosystem I build with.*
+> *My workflow is powered by AI-native development. I use AI as a collaborative engineering partner to rapidly design, prototype, build, and ship products.*
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🧠 AI Models
+### 🧠 Thinking
 
-* Claude
-* ChatGPT
-* Gemini
-* Grok
-* Perplexity
+Claude
+
+ChatGPT
+
+Gemini
+
+Perplexity
+
+Grok
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### ⚡ AI IDEs
+### ⚡ Vibe Coding
 
-* Cursor
-* Antigravity
-* Windsurf
-* Replit AI
-* GitHub Copilot
-* Max
+Cursor
+
+Antigravity
+
+Max
+
+Windsurf
+
+GitHub Copilot
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 Product Labs
+
+Bolt.new
+
+Lovable
+
+v0
+
+Replit AI
+
+Firebase Studio
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁ Deployment
+
+GitHub
+
+Supabase
+
+Firebase
+
+Docker
+
+Vercel
 
 </td>
 </tr>
-
-<tr>
-<td>
-
-### 🚀 Product Builders
-
-* Bolt.new
-* Lovable
-* v0
-* Firebase Studio
-
-</td>
-
-<td>
-
-### ☁️ Deployment
-
-* GitHub
-* Supabase
-* Firebase
-* Vercel
-* Docker
-
-</td>
-</tr>
-
 </table>
 
 ---
 
-# 🚀 CURRENT MISSIONS
+# 🎯 CURRENT MISSIONS
 
 ```text
-[✓] Building AI-first products
+[████████████████████] Build AI-First Products
 
-[✓] Shipping startup MVPs
+[██████████████████░░] Launch Startup MVPs
 
-[✓] Designing autonomous AI workflows
+[███████████████████░] Create Intelligent Workflows
 
-[✓] Exploring modern AI engineering
+[█████████████████░░░] Scale Digital Products
 
-[✓] Scaling ideas into businesses
-
-[✓] Learning something new every day
+[████████████████████] Keep Learning Every Day
 ```
 
 ---
 
-# 💭 PERSONAL PHILOSOPHY
+# 📊 GITHUB TELEMETRY
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Solohunter15&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solohunter15&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Solohunter15&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 CONTRIBUTION MATRIX
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Solohunter15&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🚀 BUILD PHILOSOPHY
 
 ```text
-Great products aren't built by writing more code.
-
-They're built by solving better problems.
-
-My workflow isn't Prompt → Code.
-
-It's
-
-Observe
-      ↓
-Understand
-      ↓
-Design
-      ↓
-Build
-      ↓
-Ship
-      ↓
-Repeat
+             IDEA
+               │
+               ▼
+         UNDERSTAND
+               │
+               ▼
+          STRATEGIZE
+               │
+               ▼
+          AI COLLABORATION
+               │
+               ▼
+             BUILD
+               │
+               ▼
+              TEST
+               │
+               ▼
+              SHIP
+               │
+               ▼
+           ITERATE
 ```
+
+---
+
+<div align="center">
+
+### **"Great products aren't built by chance. They're built through curiosity, strategy, execution, and continuous iteration."**
+
+**Always Building. Always Learning. Always Shipping. 🚀**
+
+</div>
