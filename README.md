@@ -86,35 +86,35 @@ Research → Strategy → Prototype → Build → Ship → Iterate
 
 # ⚙️ EXECUTION FRAMEWORK
 
-```text
-Problem
-   │
-   ▼
-Research
-   │
-   ▼
-Strategy
-   │
-   ▼
-AI Collaboration
-   │
-   ▼
-Prototype
-   │
-   ▼
-Development
-   │
-   ▼
-Testing
-   │
-   ▼
-Deployment
-   │
-   ▼
-Continuous Improvement
-```
-
----
+         ```text
+         Problem
+            │
+            ▼
+         Research
+            │
+            ▼
+         Strategy
+            │
+            ▼
+         AI Collaboration
+            │
+            ▼
+         Prototype
+            │
+            ▼
+         Development
+            │
+            ▼
+         Testing
+            │
+            ▼
+         Deployment
+            │
+            ▼
+         Continuous Improvement
+         ```
+         
+         ---
 
 # 📊 GITHUB ANALYTICS
 
@@ -154,19 +154,19 @@ Continuous Improvement
 
 # 💡 BUILD PHILOSOPHY
 
-```text
-THINK
-   ↓
-DESIGN
-   ↓
-BUILD
-   ↓
-SHIP
-   ↓
-LEARN
-   ↓
-REPEAT
-```
+      ```text
+      THINK
+         ↓
+      DESIGN
+         ↓
+      BUILD
+         ↓
+      SHIP
+         ↓
+      LEARN
+         ↓
+      REPEAT
+      ```
 
 > **Great products are built through curiosity, strategy, execution, and continuous improvement.**
 
