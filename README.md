@@ -6,7 +6,7 @@ Project Manager @ AI+Compassion • Chief Marketing Officer @ CurioNative
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=I+Don't+Just+Write+Code...;I+Build+Products.;AI+Native+Developer.;Vibe+Coder.;Shipping+Ideas+Into+Reality.;From+Prompt+to+Production." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+the+Future+with+AI.;Ideas+%E2%86%92+Products+%E2%86%92+Impact.;AI+Engineer+%7C+Product+Strategist.;From+Prompt+to+Production.;Less+Talking.+More+Shipping." />
 
 </p>
 
@@ -28,97 +28,134 @@ Project Manager @ AI+Compassion • Chief Marketing Officer @ CurioNative
 
 ---
 
-# ⚡ Who Am I?
+# ⚡ SYSTEM PROFILE
 
-```text
-Name        : Jibu Mathew
+```yaml
+Name:               Jibu Mathew
 
-Role        : AI Native Product Builder
+Profession:         AI Engineer
+                    Product Strategist
+                    Project Manager
 
-Speciality  : Vibe Coding • AI Workflows • Startup MVPs
+Current Roles:
+    • Project Manager @ AI+Compassion
+    • Chief Marketing Officer @ CurioNative
 
-Mission     : Build products that people actually use.
+Location:           Kerala, India 🇮🇳
 
-Mindset     : Learn → Build → Ship → Repeat 🚀
+Education:          B.Tech Data Science
+
+Mission:
+    Build intelligent products that solve
+    real-world problems through AI.
+
+Core Principle:
+    Think Deep.
+    Build Fast.
+    Ship Often.
 ```
 
 ---
 
-# 🚀 My AI Workspace
+# 🤖 AI ARSENAL
 
-Instead of traditional coding, I build products using modern AI-native workflows.
+> *These aren't just tools I use—they're the ecosystem I build with.*
 
-<p align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=github,git,docker,supabase,firebase,vercel,vscode"/>
+### 🧠 AI Models
 
-</p>
+* Claude
+* ChatGPT
+* Gemini
+* Grok
+* Perplexity
 
-### 🤖 AI Tools
+</td>
 
-* ⚡ Claude
-* ⚡ Cursor
-* ⚡ Antigravity
-* ⚡ ChatGPT
-* ⚡ Gemini
-* ⚡ GitHub Copilot
-* ⚡ Windsurf
-* ⚡ Bolt.new
-* ⚡ Lovable
-* ⚡ Replit AI
-* ⚡ v0
-* ⚡ Perplexity
-* ⚡ Max (Vibe Coding)
+<td width="50%">
 
----
+### ⚡ AI IDEs
 
-# 🚀 Currently Building
+* Cursor
+* Antigravity
+* Windsurf
+* Replit AI
+* GitHub Copilot
+* Max
 
-* 🧠 AI-first Applications
-* 🤖 Autonomous AI Workflows
-* 🌐 Startup MVPs
-* 📊 Data Science Projects
-* ⚙️ AI Automation Systems
-* 📈 Growth & Marketing Experiments
+</td>
+</tr>
 
----
+<tr>
+<td>
 
-# 📊 GitHub Analytics
+### 🚀 Product Builders
 
-<p align="center">
+* Bolt.new
+* Lovable
+* v0
+* Firebase Studio
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Solohunter15&show_icons=true&theme=tokyonight&hide_border=true"/>
+</td>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solohunter15&layout=compact&theme=tokyonight&hide_border=true"/>
+<td>
 
-</p>
+### ☁️ Deployment
 
-<p align="center">
+* GitHub
+* Supabase
+* Firebase
+* Vercel
+* Docker
 
-<img src="https://streak-stats.demolab.com?user=Solohunter15&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Solohunter15&theme=tokyo-night"/>
-
-</p>
+</table>
 
 ---
 
-# 🏆 Philosophy
+# 🚀 CURRENT MISSIONS
 
-> **"Ideas are cheap. Shipping is everything."**
+```text
+[✓] Building AI-first products
+
+[✓] Shipping startup MVPs
+
+[✓] Designing autonomous AI workflows
+
+[✓] Exploring modern AI engineering
+
+[✓] Scaling ideas into businesses
+
+[✓] Learning something new every day
+```
 
 ---
 
-<p align="center">
+# 💭 PERSONAL PHILOSOPHY
 
-### ⚡ Build Fast. Learn Faster. Ship Every Week.
+```text
+Great products aren't built by writing more code.
 
-</p>
+They're built by solving better problems.
+
+My workflow isn't Prompt → Code.
+
+It's
+
+Observe
+      ↓
+Understand
+      ↓
+Design
+      ↓
+Build
+      ↓
+Ship
+      ↓
+Repeat
+```
