@@ -73,11 +73,11 @@ Research → Strategy → Prototype → Build → Ship → Iterate
 ```text
 ████████████████████  Build AI-First Products
 
-███████████████████░  Ship Startup MVPs
+███████████████████  Ship Startup MVPs
 
 ████████████████████  Explore Emerging AI Tools
 
-██████████████████░░  Grow Open Source
+██████████████████  Grow Open Source
 
 ████████████████████  Learn. Improve. Repeat.
 ```
