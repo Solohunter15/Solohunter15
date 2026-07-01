@@ -28,7 +28,7 @@
 
 # 👨‍💼 PROFESSIONAL PROFILE
 
-```text
+
 NAME
 Jibu Mathew
 
@@ -70,7 +70,7 @@ Research → Strategy → Prototype → Build → Ship → Iterate
 
 # 🎯 MISSION BOARD
 
-```text
+
 ████████████████████  Build AI-First Products
 
 ███████████████████  Ship Startup MVPs
@@ -86,7 +86,7 @@ Research → Strategy → Prototype → Build → Ship → Iterate
 
 # ⚙️ EXECUTION FRAMEWORK
 
-         ```text
+
          Problem
             │
             ▼
@@ -154,7 +154,7 @@ Research → Strategy → Prototype → Build → Ship → Iterate
 
 # 💡 BUILD PHILOSOPHY
 
-      ```text
+   
       THINK
          ↓
       DESIGN
