@@ -1,38 +1,19 @@
-# Hi there, I'm Jibu Mathew 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Jibu Mathew
 
-<h3 align="center">🚀 Project Manager @ AI+Compassion • Chief Marketing Officer @ CurioNative • Data Science Student • Full-Stack Developer</h3>
+<h3 align="center">
+Project Manager @ AI+Compassion • Chief Marketing Officer @ CurioNative
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Project+Manager+%40+AI%2BCompassion;Chief+Marketing+Officer+%40+CurioNative;Building+AI-Powered+Solutions;Full-Stack+Developer;UI%2FUX+Designer;Data+Science+Student;Startup+Builder;Always+Learning+Something+New+🚀" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=I+Don't+Just+Write+Code...;I+Build+Products.;AI+Native+Developer.;Vibe+Coder.;Shipping+Ideas+Into+Reality.;From+Prompt+to+Production." />
+
 </p>
 
 <p align="center">
-<a href="https://komarev.com/ghpvc/?username=Solohunter15&label=Profile%20Views&color=0e75b6&style=for-the-badge">
-<img src="https://komarev.com/ghpvc/?username=Solohunter15&label=Visitors&style=for-the-badge&color=blue"/>
-</a>
-</p>
 
----
-
-# 👨‍💻 About Me
-
-🎓 **B.Tech Data Science Student**
-🏫 St. Thomas Institute for Science & Technology
-
-💼 **Project Manager** — AI+Compassion
-
-🚀 **Chief Marketing Officer (CMO)** — CurioNative
-
-💡 Passionate about building AI products, web applications, startup solutions, automation systems, and creating technology that solves real-world problems.
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://my-portfolio-sooty-pi-18.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://my-portfolio-sooty-pi-18.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jibu-mathew-018a8222b">
@@ -47,46 +28,68 @@
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Who Am I?
+
+```text
+Name        : Jibu Mathew
+
+Role        : AI Native Product Builder
+
+Speciality  : Vibe Coding • AI Workflows • Startup MVPs
+
+Mission     : Build products that people actually use.
+
+Mindset     : Learn → Build → Ship → Repeat 🚀
+```
+
+---
+
+# 🚀 My AI Workspace
+
+Instead of traditional coding, I build products using modern AI-native workflows.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,supabase,firebase,docker,git,github,linux,figma,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=github,git,docker,supabase,firebase,vercel,vscode"/>
 
 </p>
 
+### 🤖 AI Tools
+
+* ⚡ Claude
+* ⚡ Cursor
+* ⚡ Antigravity
+* ⚡ ChatGPT
+* ⚡ Gemini
+* ⚡ GitHub Copilot
+* ⚡ Windsurf
+* ⚡ Bolt.new
+* ⚡ Lovable
+* ⚡ Replit AI
+* ⚡ v0
+* ⚡ Perplexity
+* ⚡ Max (Vibe Coding)
+
 ---
 
-# 🚀 Current Focus
+# 🚀 Currently Building
 
-* 🤖 Artificial Intelligence
-* 📊 Data Science
-* 🌐 Full Stack Development
-* 🎨 UI/UX Design
-* 📱 Product Development
-* 🚀 Startup Building
-* 📈 Digital Marketing
-* 🤝 Open Source
+* 🧠 AI-first Applications
+* 🤖 Autonomous AI Workflows
+* 🌐 Startup MVPs
+* 📊 Data Science Projects
+* ⚙️ AI Automation Systems
+* 📈 Growth & Marketing Experiments
 
 ---
 
-# 🛠 Tools
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=github,git,docker,supabase,firebase,figma,postman,linux,vscode"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Solohunter15&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Solohunter15&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solohunter15&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solohunter15&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -98,7 +101,7 @@
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -108,26 +111,14 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Philosophy
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Solohunter15&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-> **"I believe technology should not just be innovative—it should create meaningful impact."**
+> **"Ideas are cheap. Shipping is everything."**
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*Let's collaborate on AI, Open Source, Full-Stack Development, Data Science, and Startup ideas.*
+### ⚡ Build Fast. Learn Faster. Ship Every Week.
 
 </p>
